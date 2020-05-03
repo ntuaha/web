@@ -1,7 +1,9 @@
 # 銀行官網重建計劃
 
+[自建狀況](https://ntuaha.github.io/web/)
+
 ## 緣起
-希望透過簡單的現代工具，自己重建一套大型銀行網站．參考網站 https://www.esunbank.com.tw/bank/personal
+希望透過簡單的現代工具，自己重建一套大型銀行網站．參考網站 [玉山官網](https://www.esunbank.com.tw/bank/personal)
 
 - git
 - React
